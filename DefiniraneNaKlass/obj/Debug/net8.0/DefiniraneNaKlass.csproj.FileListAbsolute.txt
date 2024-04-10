@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\person\DefiniraneNaKlass\bin\Debug\net8.0\DefiniraneNaKlass.exe
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\person\DefiniraneNaKlass\bin\Debug\net8.0\DefiniraneNaKlass.deps.json
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\person\DefiniraneNaKlass\bin\Debug\net8.0\DefiniraneNaKlass.runtimeconfig.json
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\person\DefiniraneNaKlass\bin\Debug\net8.0\DefiniraneNaKlass.dll
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\person\DefiniraneNaKlass\bin\Debug\net8.0\DefiniraneNaKlass.pdb
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\person\DefiniraneNaKlass\obj\Debug\net8.0\DefiniraneNaKlass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\person\DefiniraneNaKlass\obj\Debug\net8.0\DefiniraneNaKlass.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\person\DefiniraneNaKlass\obj\Debug\net8.0\DefiniraneNaKlass.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\person\DefiniraneNaKlass\obj\Debug\net8.0\DefiniraneNaKlass.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\person\DefiniraneNaKlass\obj\Debug\net8.0\DefiniraneNaKlass.dll
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\person\DefiniraneNaKlass\obj\Debug\net8.0\refint\DefiniraneNaKlass.dll
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\person\DefiniraneNaKlass\obj\Debug\net8.0\DefiniraneNaKlass.pdb
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\person\DefiniraneNaKlass\obj\Debug\net8.0\DefiniraneNaKlass.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\person\DefiniraneNaKlass\obj\Debug\net8.0\ref\DefiniraneNaKlass.dll
